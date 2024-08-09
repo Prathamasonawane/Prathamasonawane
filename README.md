@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java,PHP,Data Scicence**
 
-- 📫 How to reach me **ps03201000@gmail.com**
+- 📫 How to reach me **www.ps03201000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
